@@ -579,10 +579,10 @@ hexo-generator-category@^2.0.0:
   dependencies:
     hexo-pagination "3.0.0"
 
-hexo-generator-index@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.npmmirror.com/hexo-generator-index/-/hexo-generator-index-4.0.0.tgz#2f20cf9d231db30edbccd5be32c92c8aeb5d6d63"
-  integrity sha512-KeM7mOCKWINGFAk1E+CkjMMgqFIv8oaRbGxR7ipkQAp44o4aopkVftma4sdIplOq9WQEWfVYDUK5gEv9J3nzUg==
+hexo-generator-index@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.npmmirror.com/hexo-generator-index/-/hexo-generator-index-3.0.0.tgz#4c9233731e027a6af6491886a4aafe08ffdaffe0"
+  integrity sha512-83AuNN4cWdLVi//3ugR8E3kR6rrOwhXZt+hOCm1IjtIGj353/GlrtpMHpqZHU5kqipzj4miy9dweVdukXglVWw==
   dependencies:
     hexo-pagination "3.0.0"
 
@@ -619,7 +619,7 @@ hexo-renderer-ejs@^2.0.0:
   dependencies:
     ejs "^3.1.6"
 
-hexo-renderer-marked@^6.3.0:
+hexo-renderer-marked@^6.0.0:
   version "6.3.0"
   resolved "https://registry.npmmirror.com/hexo-renderer-marked/-/hexo-renderer-marked-6.3.0.tgz#be8680ecad9633964a0c26a5f99859247d996aca"
   integrity sha512-V/ATcJ+tZHkTJSbScPzzHKmrwVMohU8i9MfuX9jp07Un/NpPtaTP821unP3JPu+O1nNLWMi+3xRbFRdm+8vajw==
@@ -629,7 +629,7 @@ hexo-renderer-marked@^6.3.0:
     jsdom "^20.0.1"
     marked "^4.3.0"
 
-hexo-renderer-stylus@^3.0.1:
+hexo-renderer-stylus@^3.0.0:
   version "3.0.1"
   resolved "https://registry.npmmirror.com/hexo-renderer-stylus/-/hexo-renderer-stylus-3.0.1.tgz#7ff6f3101fa86ba25de415257be7fa7032e910bc"
   integrity sha512-cFm8ZwShBBeFcQwOXc8EK7lIZnSYVD6OJykdL4GBw99hxc4eD5Hlsi32nRzE8sgKv00jhX1s9Da3GVVFMPAVQg==
@@ -669,7 +669,7 @@ hexo-util@^3.0.1, hexo-util@^3.1.0, hexo-util@^3.3.0:
     prismjs "^1.29.0"
     strip-indent "^3.0.0"
 
-hexo@^7.3.0:
+hexo@^7.0.0:
   version "7.3.0"
   resolved "https://registry.npmmirror.com/hexo/-/hexo-7.3.0.tgz#a9a487874c5ed71c22e91e32dd5d825709a1474f"
   integrity sha512-dOe8mzBKrvjubW5oBmyhcnQDpC+M2xmAMLae5K+o+SkHxyvAhShkS2VQZoTsOLIJKY6xilv7dzCjCvE7ol/NHQ==
